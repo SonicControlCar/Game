@@ -3,7 +3,7 @@ using System.Collections;
 
 public class MusicManager : MonoBehaviour {
 
-
+    //global variables
     public AudioClip[] levelMusicChangeArray;
 
     private AudioSource audioSource;
